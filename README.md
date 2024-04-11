@@ -77,17 +77,22 @@ Map showing Quantity sold by Location
 ## Final Dashboard
 <img width="1181" alt="Знімок екрана 2024-04-11 о 16 17 30" src="https://github.com/IraSafonik/project_Data-Visualisation_Tata-Group/assets/32171563/6b16c11b-9649-4dee-b4da-767701a422a3">
 
-# Conclusion and Recommendation
-- Plans for more Stores to be opened in Netherlands should be initiated in order to generate more business and revenue for the company by meeting up the increasing demand coming from that location.
-- There should be more awareness, campaigns, advertisements and promotions carried out in Japan and Sweden in order to boost sales and generate more revenue for the company.
-- The Customer with the ID 14646 seems to be our most valuable customer, we’d need to maintain and improve the relationship, and provide them with exceptional service, support, and offer incentives such as discounts, exclusive offers, or rewards programs.
-- Based on the data provided, February and April usually have the lowest sales. This should be further investigated to identity the causes and make proper amendments where necessary to enable improvements.
+# Conclusion 
+- The analysis of the retail store's data from 2010 to 2011 reveals significant insights into its performance and customer behavior.
+- Total revenue for the period was $10.6 million, with a total quantity sold of 5,660,979 units, resulting in a profit of $8.6 million after accounting for a cost of goods sold of $2.1 million.
+- The dataset includes sales data from 38 countries, with the Netherlands leading in both revenue and quantity sold.
+
+# Recommendation
+- Expansion in Netherlands: Considering that the Netherlands emerged as the top-performing country in terms of revenue and quantity sold, it's prudent to initiate plans for opening more stores in the region. By capitalizing on the increasing demand observed in the Netherlands, the company can significantly boost its business and revenue.
+- Marketing Focus on Japan and Sweden: Given the potential for growth in Japan and Sweden, it's essential to implement targeted marketing campaigns, advertisements, and promotions in these regions. Increasing awareness and visibility of the company's products can stimulate sales and generate additional revenue.
+- Customer Relationship Management for ID 14646: Customer ID 14646 stands out as the most valuable customer, contributing a significant amount to the company's revenue. To maintain and enhance this valuable relationship, the company should prioritize providing exceptional service, personalized support, and exclusive incentives such as discounts or rewards programs.
+- Addressing Low Sales Months: Analysis of the data indicates that February and April consistently exhibit lower sales compared to other months. Further investigation into the underlying causes of these trends is necessary to implement appropriate strategies for improvement. By identifying and addressing any potential issues or obstacles, the company can optimize sales performance throughout the year.
 
 ## What I learned from this program
-- Framing the Business Scenario: How to frame and anticipate the questions your business leaders will need answers to.
-- Choosing the Right Visuals: Which visuals are most effective in a given scenario.
-- Creating Effective Visuals: Apply your under and create visuals based on business scenarios.
-- Communicating Insights and Analysis: Effectively communicate your findings and explain how it relates to each scenario.
+- Understanding Business Scenarios: Gained insights into framing and predicting the questions that business leaders will require answers to.
+- Selecting Appropriate Visuals: Learned to choose the most suitable visuals for specific scenarios to convey information effectively.
+- Crafting Impactful Visuals: Utilized your understanding to create visuals that accurately represent business scenarios and insights.
+- Articulating Insights and Analysis: Developed skills in effectively communicating findings and illustrating their relevance to each scenario.
 
 Thanks for reading.
 
