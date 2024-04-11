@@ -23,15 +23,15 @@ The CEO is looking to gain insights on the demand for their products. He wants t
 The data was gotten from Forage website which I downloaded and imported to Tableau Public.
 
 ### Raw Dataset
-The dataset had 541909 entries and 8 columns;
-Invoice No: Used to track payments
-Stock Code: Product code
-Description: Product details
-Quantity: Number of purchases per product
-Invoice Date: Date the product was purchased
-Unit Price: Cost of product
-Customer ID: A unique identifier assigned to customers
-Country: Location the product was sold
+- The dataset had 541909 entries and 8 columns;
+- Invoice No: Used to track payments
+- Stock Code: Product code
+- Description: Product details
+- Quantity: Number of purchases per product
+- Invoice Date: Date the product was purchased
+- Unit Price: Cost of product
+- Customer ID: A unique identifier assigned to customers
+- Country: Location the product was sold
 
 ## Data cleanup
 Before starting any analysis, it is ideal to make sure that the data is cleaned properly. I noticed that the data contains some returns to the store which are provided in negative quantities and there are unit prices which were input in error. I was required to perform the following steps to cleaning this data.
