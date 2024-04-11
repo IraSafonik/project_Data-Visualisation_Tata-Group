@@ -41,43 +41,41 @@ Added filter for row values where the Unit price is below $0. (data includes val
 *Additional I have created calculated field for Revenue value ([UnitPrice]* [Quantity])
 The data cleaning and analysis were done using Tableau Public.
 
-
+<img width="1440" alt="Знімок екрана 2024-04-11 о 13 25 44" src="https://github.com/IraSafonik/project_Data-Visualisation_Tata-Group/assets/32171563/e60e33dc-d859-4a83-89a4-a72a7872dab2">
 
 ## Data Visualization
 The data visualization was done with Tableau which I used to create charts, map and the Dashboard.
 
-Data importation
-The total quantity sold between 2010 and 2011 was 908,912 units
+### Total quantity sold
+The total quantity sold between 2010 and 2011 was 5,660,979 units
 
-Total quantity sold
-2. The total Revenue between 2010 and 2011 is $1.6M
+### Total Revenue
+The total Revenue between 2010 and 2011 is $10.6M
 
-Total Revenue
-3. The Cost of Goods sold is $188.8K
+### Cost of Goods sold
+The Cost of Goods sold is $2.1M
 
-Cost of Goods sold
-4. The total profit made is $1.4M
+### Total Profit
+The total profit made is $8.6M
 
-Total Profit
-5. Total number of Countries in the dataset is 35(excluding UK)
+### Total number of Countries
+Total number of Countries in the dataset is 38
 
-Total number of Countries(excluding UK)
-6. The Country in which the most quantity was sold is the Netherlands, which sold a total of 200,361 units.
+### Revenue and quantity by Country
+The country that produced the highest Revenue and Quantity bought is Netherlands, giving a total of $285K and 201K units respectively.
+<img width="1440" alt="Знімок екрана 2024-04-11 о 16 15 11" src="https://github.com/IraSafonik/project_Data-Visualisation_Tata-Group/assets/32171563/e82b3d90-7b5e-42c1-83c8-7deed45ffc5d">
 
-Quantity by Country
-7. The customer with the highest revenue is the Customer with ID 14646, giving a total of $280,206.
+### Top 10 customer by revenue
+The customer with the highest revenue is the Customer with ID 14646, giving a total of $280K.
+<img width="1440" alt="Знімок екрана 2024-04-11 о 16 15 21" src="https://github.com/IraSafonik/project_Data-Visualisation_Tata-Group/assets/32171563/19408f05-c310-4763-9817-ef88501d76fd">
 
-Top 10 customer by revenue
-8. The country that produced the highest Revenue and Quantity bought is Netherlands, giving a total of $285K and 200,361 respectively.
+### Quantity by Location
+Map showing Quantity sold by Location
+<img width="1439" alt="Знімок екрана 2024-04-11 о 16 16 31" src="https://github.com/IraSafonik/project_Data-Visualisation_Tata-Group/assets/32171563/4eb42139-2f1d-434c-8064-0ae7a6361277">
 
-Revenue and quantity by Country
-9. Map showing Quantity sold by Location
 
-Quantity by Location
-Final Dashboard
-
-The Dashboard
-Click HERE to interact with the dashboard.
+## Final Dashboard
+<img width="1181" alt="Знімок екрана 2024-04-11 о 16 17 30" src="https://github.com/IraSafonik/project_Data-Visualisation_Tata-Group/assets/32171563/6b16c11b-9649-4dee-b4da-767701a422a3">
 
 # Conclusion and Recommendation
 - Plans for more Stores to be opened in Netherlands should be initiated in order to generate more business and revenue for the company by meeting up the increasing demand coming from that location.
