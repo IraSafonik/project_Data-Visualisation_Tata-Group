@@ -35,11 +35,11 @@ The data was gotten from Forage website which I downloaded and imported to Table
 
 ## Data cleanup
 Before starting any analysis, it is ideal to make sure that the data is cleaned properly. I noticed that the data contains some returns to the store which are provided in negative quantities and there are unit prices which were input in error. I was required to perform the following steps to cleaning this data.
-Import and read data into Tableau Public.
-Added filter for row values where the quantity is below 1 unit. (data includes values greater than or equel to 1)
-Added filter for row values where the Unit price is below $0. (data includes values greater than or equel to 0)
-*Additional I have created calculated field for Revenue value ([UnitPrice]* [Quantity])
-The data cleaning and analysis were done using Tableau Public.
+- Import and read data into Tableau Public.
+- Added filter for row values where the quantity is below 1 unit. (data includes values greater than or equel to 1)
+- Added filter for row values where the Unit price is below $0. (data includes values greater than or equel to 0)
+- *Additional I have created calculated field for Revenue value ([UnitPrice]* [Quantity])
+- The data cleaning and analysis were done using Tableau Public.
 
 <img width="1440" alt="Знімок екрана 2024-04-11 о 13 25 44" src="https://github.com/IraSafonik/project_Data-Visualisation_Tata-Group/assets/32171563/e60e33dc-d859-4a83-89a4-a72a7872dab2">
 
