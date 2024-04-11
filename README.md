@@ -47,30 +47,30 @@ The data cleaning and analysis were done using Tableau Public.
 The data visualization was done with Tableau which I used to create charts, map and the Dashboard.
 
 ### Total quantity sold
-The total quantity sold between 2010 and 2011 was 5,660,979 units
+1. The total quantity sold between 2010 and 2011 was 5,660,979 units
 
 ### Total Revenue
-The total Revenue between 2010 and 2011 is $10.6M
+2. The total Revenue between 2010 and 2011 is $10.6M
 
 ### Cost of Goods sold
-The Cost of Goods sold is $2.1M
+3. The Cost of Goods sold is $2.1M
 
 ### Total Profit
-The total profit made is $8.6M
+4. The total profit made is $8.6M
 
 ### Total number of Countries
-Total number of Countries in the dataset is 38
+5. Total number of Countries in the dataset is 38
 
 ### Revenue and quantity by Country
-The country that produced the highest Revenue and Quantity bought is Netherlands, giving a total of $285K and 201K units respectively.
+6. The country that produced the highest Revenue and Quantity bought is Netherlands, giving a total of $285K and 201K units respectively.
 <img width="1440" alt="Знімок екрана 2024-04-11 о 16 15 11" src="https://github.com/IraSafonik/project_Data-Visualisation_Tata-Group/assets/32171563/e82b3d90-7b5e-42c1-83c8-7deed45ffc5d">
 
 ### Top 10 customer by revenue
-The customer with the highest revenue is the Customer with ID 14646, giving a total of $280K.
+7. The customer with the highest revenue is the Customer with ID 14646, giving a total of $280K.
 <img width="1440" alt="Знімок екрана 2024-04-11 о 16 15 21" src="https://github.com/IraSafonik/project_Data-Visualisation_Tata-Group/assets/32171563/19408f05-c310-4763-9817-ef88501d76fd">
 
 ### Quantity by Location
-Map showing Quantity sold by Location
+8. Map showing Quantity sold by Location
 <img width="1439" alt="Знімок екрана 2024-04-11 о 16 16 31" src="https://github.com/IraSafonik/project_Data-Visualisation_Tata-Group/assets/32171563/4eb42139-2f1d-434c-8064-0ae7a6361277">
 
 
