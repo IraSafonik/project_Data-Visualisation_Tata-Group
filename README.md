@@ -77,6 +77,8 @@ The data visualization was done with Tableau which I used to create charts, map 
 ## Final Dashboard
 <img width="1181" alt="Знімок екрана 2024-04-11 о 16 17 30" src="https://github.com/IraSafonik/project_Data-Visualisation_Tata-Group/assets/32171563/6b16c11b-9649-4dee-b4da-767701a422a3">
 
+[Tableau Public](https://public.tableau.com/views/TataRetailAnalysis_17128400337470/TATARETAILANALYSIS?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+
 # Conclusion 
 - The analysis of the retail store's data from 2010 to 2011 reveals significant insights into its performance and customer behavior.
 - Total revenue for the period was $10.6 million, with a total quantity sold of 5,660,979 units, resulting in a profit of $8.6 million after accounting for a cost of goods sold of $2.1 million.
